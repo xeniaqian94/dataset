@@ -3,7 +3,8 @@ Multi30k Data Repository
 
 ### TODO
 
-1. use OpenNMT preprocess.py to transofrm tokenized data into OpenNMT compatible form. Pay attention to parameter setting, e.g. we set -src_seq_length, -tgt_seq_length, etc. as large as possible so that no data is being pruned.
+1. Use OpenNMT preprocess.py to transofrm tokenized data into OpenNMT compatible form. Pay attention to parameter setting, e.g. we set -src_seq_length, -tgt_seq_length, etc. as large as possible so that no data is being pruned.
+
 
 
 ### Getting ready
