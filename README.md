@@ -5,6 +5,8 @@ Multi30k Data Repository
 
 1. Use OpenNMT preprocess.py to transofrm tokenized data into OpenNMT compatible form. Pay attention to parameter setting, e.g. we set -src_seq_length, -tgt_seq_length, etc. as large as possible so that no data is being pruned.
 
+2. Integrate the policy gradient method into NMT from the state-of-the-art NMT codebase, OpenNMT.
+
 
 
 ### Getting ready
